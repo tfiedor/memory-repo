@@ -1,0 +1,11 @@
+no-func:
+    - factorial
+    - foo2
+
+no-source:
+    - /home/radim/Plocha/PdRG/BP/perun_test/perun/collect/memory/test.c
+
+sampling:
+    0.0001
+
+all:
